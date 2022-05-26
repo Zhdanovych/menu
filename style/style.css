@@ -46,8 +46,6 @@ body {
   display: flex;
   background-color: var(--color-bgdark);
 }
-.navbar__list-second {
-}
 .navbar__list-third {
   top: calc(100% - 52.39px);
   left: 100%;
